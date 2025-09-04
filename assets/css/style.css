@@ -727,7 +727,7 @@ nav.navbar.bootsnav .navbar-toggle i {
     left: 0;
     width: 100%;
     height: 100%;
-    background: var(--gradient-primary);
+    background: #232337;
     z-index: 0;
 }
 
